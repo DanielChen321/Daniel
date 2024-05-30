@@ -247,42 +247,6 @@
   right: 80px;
   top: 56px;
 }
-.assessment {
-  color: #000000;
-  text-align: left;
-  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
-  font-size: var(--body-text-font-size, 20px);
-  line-height: var(--body-text-line-height, 150%);
-  font-weight: var(--body-text-font-weight, 500);
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.member {
-  color: #000000;
-  text-align: left;
-  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
-  font-size: var(--body-text-font-size, 20px);
-  line-height: var(--body-text-line-height, 150%);
-  font-weight: var(--body-text-font-weight, 500);
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.team {
-  color: #000000;
-  text-align: left;
-  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
-  font-size: var(--body-text-font-size, 20px);
-  line-height: var(--body-text-line-height, 150%);
-  font-weight: var(--body-text-font-weight, 500);
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
 .button {
   background: #000000;
   border-radius: 8px;
@@ -307,20 +271,6 @@
   line-height: var(--small-text-line-height, 150%);
   font-weight: var(--small-text-font-weight, 500);
   position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.final-work {
-  color: #000000;
-  text-align: left;
-  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
-  font-size: var(--body-text-font-size, 20px);
-  line-height: var(--body-text-line-height, 150%);
-  font-weight: var(--body-text-font-weight, 500);
-  position: absolute;
-  left: 946px;
-  top: 67px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -477,38 +427,6 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
-}
-.icon5 {
-  width: 24px;
-  height: 24px;
-  position: absolute;
-  left: 8px;
-  top: 8px;
-  overflow: visible;
-}
-.icon6 {
-  width: 24px;
-  height: 24px;
-  position: absolute;
-  left: 8px;
-  top: 8px;
-  overflow: visible;
-}
-.icon7 {
-  width: 24px;
-  height: 24px;
-  position: absolute;
-  left: 8px;
-  top: 8px;
-  overflow: visible;
-}
-.icon8 {
-  width: 24px;
-  height: 24px;
-  position: absolute;
-  left: 8px;
-  top: 8px;
-  overflow: visible;
 }
 .paragraph {
   color: #000000;
