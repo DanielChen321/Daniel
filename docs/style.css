@@ -8,16 +8,6 @@
   position: relative;
   overflow: hidden;
 }
-.hero-image {
-  background: #f7f7f7;
-  border-radius: 8px;
-  width: 338px;
-  height: 504px;
-  position: absolute;
-  right: 131px;
-  top: 181px;
-  overflow: hidden;
-}
 .navigation-footer {
   background: #ffffff;
   height: 264px;
@@ -221,11 +211,11 @@
   justify-content: flex-start;
 }
 .img-3953-1 {
-  width: 373px;
-  height: 504px;
+  width: 389px;
+  height: 525.62px;
   position: absolute;
-  left: 1224px;
-  top: 152px;
+  left: 1203px;
+  top: 128px;
   object-fit: cover;
 }
 .navigation {
